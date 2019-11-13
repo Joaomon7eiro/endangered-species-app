@@ -1,5 +1,4 @@
-# animal_red_list_app
-
+# ANIMAL RED LIST
 List of extinction animals
 
 ## Getting Started
